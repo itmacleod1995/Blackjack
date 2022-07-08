@@ -48,7 +48,9 @@ table {
 }
 
 body {
-    background-color: #1a564b
+    background: url(images/amol-tyagi-7dkLbNE6ycI-unsplash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .logo {
@@ -58,7 +60,7 @@ body {
     font-size: 48px;
 }
 
-#result {
+#result, #player-cards, #sum{
     text-align: center;
     color: white;
     font-size: 2em;
