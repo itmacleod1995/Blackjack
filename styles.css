@@ -90,3 +90,10 @@ button:hover {
     color: gold;
     font-weight: bolder;
 }
+
+#earnings {
+    text-align: center;
+    color: gold;
+    margin-top: 30px;
+    font-size: 40px;
+}
