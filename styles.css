@@ -56,7 +56,7 @@ body {
 .logo {
     margin-top: 5%;
     text-align: center;
-    color: gold;
+    color: goldenrod;
     font-size: 48px;
 }
 
@@ -76,7 +76,7 @@ body {
 button {
     padding: 10px 20px;
     width: 200px;
-    background-color: gold;
+    background-color: goldenrod;
     color: white;
     font-size: 20px;
     border: none;
@@ -87,13 +87,13 @@ button {
 
 button:hover {
     background-color: white;
-    color: gold;
+    color: goldenrod;
     font-weight: bolder;
 }
 
 #earnings {
     text-align: center;
-    color: gold;
+    color: goldenrod;
     margin-top: 30px;
     font-size: 40px;
 }
